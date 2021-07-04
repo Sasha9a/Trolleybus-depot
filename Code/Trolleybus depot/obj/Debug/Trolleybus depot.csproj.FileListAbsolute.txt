@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Trolleybus depot\Trolleybus depot\bin\Debug\Trolleybus depot.exe.config
+C:\Users\User\source\repos\Trolleybus depot\Trolleybus depot\bin\Debug\Trolleybus depot.exe
+C:\Users\User\source\repos\Trolleybus depot\Trolleybus depot\bin\Debug\Trolleybus depot.pdb
+C:\Users\User\source\repos\Trolleybus depot\Trolleybus depot\obj\Debug\Trolleybus depot.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Trolleybus depot\Trolleybus depot\obj\Debug\Trolleybus_depot.Form1.resources
+C:\Users\User\source\repos\Trolleybus depot\Trolleybus depot\obj\Debug\Trolleybus_depot.Properties.Resources.resources
+C:\Users\User\source\repos\Trolleybus depot\Trolleybus depot\obj\Debug\Trolleybus depot.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Trolleybus depot\Trolleybus depot\obj\Debug\Trolleybus depot.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Trolleybus depot\Trolleybus depot\obj\Debug\Trolleybus depot.exe
+C:\Users\User\source\repos\Trolleybus depot\Trolleybus depot\obj\Debug\Trolleybus depot.pdb
+C:\Users\User\source\repos\Trolleybus depot\Trolleybus depot\obj\Debug\Trolleybus_depot.CreateRoutes.resources

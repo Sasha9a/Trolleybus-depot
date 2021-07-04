@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Trolleybus depot\Trolleybus depot\bin\Release\Trolleybus depot.exe.config
+C:\Users\User\source\repos\Trolleybus depot\Trolleybus depot\bin\Release\Trolleybus depot.exe
+C:\Users\User\source\repos\Trolleybus depot\Trolleybus depot\bin\Release\Trolleybus depot.pdb
+C:\Users\User\source\repos\Trolleybus depot\Trolleybus depot\obj\Release\Trolleybus_depot.CreateRoutes.resources
+C:\Users\User\source\repos\Trolleybus depot\Trolleybus depot\obj\Release\Trolleybus_depot.Form1.resources
+C:\Users\User\source\repos\Trolleybus depot\Trolleybus depot\obj\Release\Trolleybus_depot.Properties.Resources.resources
+C:\Users\User\source\repos\Trolleybus depot\Trolleybus depot\obj\Release\Trolleybus depot.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Trolleybus depot\Trolleybus depot\obj\Release\Trolleybus depot.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Trolleybus depot\Trolleybus depot\obj\Release\Trolleybus depot.exe
+C:\Users\User\source\repos\Trolleybus depot\Trolleybus depot\obj\Release\Trolleybus depot.pdb
